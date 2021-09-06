@@ -19,7 +19,7 @@ The output that is predicted is a list of binary bits (5 bits) to represent an a
 ```
 which evaluates to 1 that is the 1st letter of alphabet
 
-## Number classificationi using Perceptron
+## Number classification using Perceptron
 Using the basic perceptron algorithm, inputs and outputs have been mapped and output is being predicted properly. The program can be run using
 `python main.py`. 
 Furthermore, you can give a custom input and it will predict the proper digit (0-9). Input is in the form of a 5X3 matrix. For example to represent 5, you need to type in 
